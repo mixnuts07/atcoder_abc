@@ -21,3 +21,9 @@
 # print(x4,y4)
 
 #（B）
+# import math
+# A, B = map(int,input().split())
+# d = math.sqrt(A**2 + B**2)
+# a = 1/d * A
+# b = 1/d * B
+# print(a,b)
