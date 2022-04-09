@@ -31,6 +31,7 @@
 #         j += 1
 # print(i)
 # print(j)
+
 # # --別解--
 # N = int(input())
 # A = list(map(int,input().split()))
